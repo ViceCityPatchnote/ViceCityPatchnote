@@ -5,5 +5,5 @@
 - 📫 Voici le liens de notre Discord : https://discord.gg/7TbMmAhbnJ
 
 
-Pour vous y retrouvez sur le github, lisez le document ''Patch-note.md'' qui sera dans l'onglet repositories!💞️
+Pour vous y retrouvez sur le github, lisez le document ''Patch-note.md'' qui sera dans juste en haut du README!💞️
 
