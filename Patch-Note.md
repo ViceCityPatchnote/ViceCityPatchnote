@@ -1,3 +1,3 @@
-Patch Note 1.0 
+Patch Note 1.0 - A Suivre
 
 Comming soon...
